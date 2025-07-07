@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kaleeswaran-s-403b5929b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?logo=firefox&logoColor=white)](https://portfolio3dq.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaleeskalees8489@gmail.com) 
 
 # 💻 Tech Stack:
